@@ -1,2 +1,2 @@
 # fake_useragent.json
-fake-useragent.json文件下载，用于解决调用fake-useragent库中UserAgent()方法提示的fake_useragent.errors.FakeUserAgentError: Maximum amount of retries reached错误。
+Download the fake-useragent.json file to resolve the fake_useragent.errors.FakeUserAgentError: Maximum amount of retries reached error that occurs when calling the UserAgent() method in the fake-useragent library.
